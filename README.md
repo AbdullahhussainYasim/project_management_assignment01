@@ -1,3 +1,9 @@
+# Project Management (Assignment - 1)
+## Group#7 (Section B)
+- **BSCS23008**: Abdullah Hussain Yasim
+- **BSCS23038**: Muhammad Asharib
+- **BSCS23077**: Abuhurairah Faheem
+
 # Project Management Standards Comparison App
 
 A comprehensive Flutter application for comparing project management standards (PMBOK 7, PRINCE2, ISO 21500/21502) with side-by-side analysis, PDF viewing, and intelligent insights.
