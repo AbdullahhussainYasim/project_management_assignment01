@@ -47,8 +47,7 @@ app.*.map.json
 
 
 
-/assets/data
+/assets/data/*.json
 /assets/images
-/assets/data
-/assets/pdfs
-/assets/generated_data
+/assets/pdfs/*.pdf
+/assets/generated_data/*.json
