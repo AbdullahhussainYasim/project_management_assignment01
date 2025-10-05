@@ -1,0 +1,10 @@
+# PDF Processing
+PyPDF2>=3.0.0
+PyMuPDF>=1.23.0
+
+# AI Integration
+google-generativeai>=0.3.0
+
+# Utilities and Dependencies
+pathlib2>=2.3.0
+typing-extensions>=4.0.0
