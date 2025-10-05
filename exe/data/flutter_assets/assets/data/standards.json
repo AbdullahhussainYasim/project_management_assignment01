@@ -1,0 +1,26 @@
+[
+  {
+    "type": "pmbok",
+    "name": "PMBOK Guide",
+    "version": "7th Edition",
+    "pdfPath": "assets/pdfs/pmbok7.pdf",
+    "description": "Project Management Body of Knowledge",
+    "color": "#4CAF50"
+  },
+  {
+    "type": "prince2",
+    "name": "PRINCE2",
+    "version": "2017 Edition",
+    "pdfPath": "assets/pdfs/prince2.pdf",
+    "description": "Projects in Controlled Environments",
+    "color": "#9C27B0"
+  },
+  {
+    "type": "iso21500",
+    "name": "ISO 21500",
+    "version": "2021",
+    "pdfPath": "assets/pdfs/iso21500.pdf",
+    "description": "Guidance on Project Management",
+    "color": "#FF9800"
+  }
+]

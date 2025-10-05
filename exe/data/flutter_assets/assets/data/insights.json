@@ -1,0 +1,149 @@
+[
+    {
+        "topicId": "risk_management",
+        "title": "Risk Management Comparison",
+        "similarities": [
+            "All standards require systematic risk identification processes",
+            "Risk assessment and analysis are fundamental across all frameworks",
+            "Risk response planning is emphasized in all approaches",
+            "Continuous risk monitoring throughout project lifecycle",
+            "Documentation of risks in registers or logs"
+        ],
+        "differences": [
+            {
+                "aspect": "Risk Analysis Approach",
+                "descriptions": {
+                    "pmbok": "Uses both qualitative and quantitative risk analysis with detailed probability and impact assessments",
+                    "prince2": "Focuses on risk tolerance and appetite with theme-based categorization",
+                    "iso21500": "Emphasizes systematic risk processes integrated with organizational governance"
+                }
+            },
+            {
+                "aspect": "Risk Response Strategies",
+                "descriptions": {
+                    "pmbok": "Four main strategies: Avoid, Transfer, Mitigate, Accept (plus Exploit, Share, Enhance for opportunities)",
+                    "prince2": "Prevent, Reduce, Transfer, Accept with emphasis on risk tolerance levels",
+                    "iso21500": "Focuses on risk treatment options aligned with organizational risk management"
+                }
+            }
+        ],
+        "uniquePoints": {
+            "pmbok": [
+                "Monte Carlo simulation for quantitative analysis",
+                "Expected Monetary Value (EMV) calculations",
+                "Risk breakdown structure (RBS)",
+                "Tornado diagrams for sensitivity analysis"
+            ],
+            "prince2": [
+                "Risk tolerance and appetite concepts",
+                "Risk theme integration with other themes",
+                "Risk budget allocation",
+                "Risk owner accountability framework"
+            ],
+            "iso21500": [
+                "Risk governance integration",
+                "Stakeholder risk perception management",
+                "Organizational risk maturity consideration",
+                "Risk culture development"
+            ]
+        }
+    },
+    {
+        "topicId": "stakeholder_management",
+        "title": "Stakeholder Management Analysis",
+        "similarities": [
+            "Stakeholder identification is the first critical step",
+            "Analysis of stakeholder influence and interest levels",
+            "Development of engagement strategies",
+            "Regular communication and relationship management",
+            "Monitoring stakeholder satisfaction and engagement"
+        ],
+        "differences": [
+            {
+                "aspect": "Stakeholder Classification",
+                "descriptions": {
+                    "pmbok": "Power/Interest grid, Influence/Impact grid, Stakeholder cube model",
+                    "prince2": "Organization theme with defined roles and responsibilities matrix",
+                    "iso21500": "Stakeholder register with influence and impact assessment"
+                }
+            },
+            {
+                "aspect": "Engagement Planning",
+                "descriptions": {
+                    "pmbok": "Detailed stakeholder engagement plan with specific strategies per stakeholder",
+                    "prince2": "Communication management strategy integrated with organization theme",
+                    "iso21500": "Stakeholder engagement integrated with communication management"
+                }
+            }
+        ],
+        "uniquePoints": {
+            "pmbok": [
+                "Stakeholder engagement assessment matrix",
+                "Data representation techniques for stakeholder analysis",
+                "Stakeholder register as formal document",
+                "Engagement level tracking (Unaware to Leading)"
+            ],
+            "prince2": [
+                "Defined project roles (Project Board, Project Manager, Team Manager)",
+                "Customer/Supplier environment distinction",
+                "Authority levels and delegation framework",
+                "Escalation paths through organization structure"
+            ],
+            "iso21500": [
+                "Integration with organizational stakeholder management",
+                "Stakeholder value creation focus",
+                "Cultural considerations in stakeholder engagement",
+                "Stakeholder feedback integration processes"
+            ]
+        }
+    },
+    {
+        "topicId": "quality_management",
+        "title": "Quality Management Comparison",
+        "similarities": [
+            "Quality planning as foundation for quality management",
+            "Quality assurance and quality control processes",
+            "Continuous improvement throughout project lifecycle",
+            "Customer satisfaction and requirements fulfillment",
+            "Quality metrics and measurement systems"
+        ],
+        "differences": [
+            {
+                "aspect": "Quality Philosophy",
+                "descriptions": {
+                    "pmbok": "Prevention over inspection, customer satisfaction, management responsibility",
+                    "prince2": "Fit for purpose approach with customer quality expectations",
+                    "iso21500": "Quality management system integration with organizational standards"
+                }
+            },
+            {
+                "aspect": "Quality Control Methods",
+                "descriptions": {
+                    "pmbok": "Seven basic quality tools, statistical sampling, inspection techniques",
+                    "prince2": "Quality review technique, quality criteria definition, acceptance criteria",
+                    "iso21500": "Quality assurance processes aligned with ISO quality standards"
+                }
+            }
+        ],
+        "uniquePoints": {
+            "pmbok": [
+                "Cost of quality (prevention, appraisal, failure costs)",
+                "Quality management plan as subsidiary plan",
+                "Quality metrics and quality checklists",
+                "Design for X (DfX) methodologies"
+            ],
+            "prince2": [
+                "Quality review technique with defined roles",
+                "Product-based planning approach",
+                "Quality criteria in product descriptions",
+                "Customer quality expectations management"
+            ],
+            "iso21500": [
+                "Integration with ISO 9001 quality management systems",
+                "Quality policy alignment with organizational strategy",
+                "Quality culture development",
+                "Stakeholder quality requirements management"
+            ]
+        }
+    }
+]
