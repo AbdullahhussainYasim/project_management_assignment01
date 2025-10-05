@@ -25,8 +25,8 @@ A comprehensive Flutter application for comparing project management standards (
 - **Offline Support**: Local JSON data with caching
 - **Material 3 Design**: Modern UI following Material Design guidelines
 
-## 📱 Screenshots
-
+## 📱 Key Features
+![img.png](img.png)
 ### Home Screen
 - Overview of available standards
 - Quick actions for comparison and search
